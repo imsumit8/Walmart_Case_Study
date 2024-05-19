@@ -31,6 +31,13 @@ Focus on creating inclusive marketing strategies that resonate with a broader au
 The confidence intervals for the average amount spent by different age groups do not overlap, indicating statistically significant differences in average spending between age groups.
 An ANOVA test (F-test) confirmed these significant differences in spending patterns across different age groups.
 
+
+### Recommendations:
+
+Walmart can tailor their product offerings, marketing messages, and store layouts to better target the preferences and spending habits of each age group.
+Introduce age-specific promotions, loyalty programs, or product bundles to attract customers from different age demographics.
+Use insights from spending patterns of different age groups to optimize revenue generation strategies and enhance customer satisfaction.
+
 ## Contributing
 On top of this Exploratory analysis one can contribute via employing any machine learning models for future predictions or customer segmentation.
 
@@ -38,9 +45,3 @@ On top of this Exploratory analysis one can contribute via employing any machine
 MIT License
 
 Copyright (c) 2024 Sumit Chowdhury
-
-### Recommendations:
-
-Walmart can tailor their product offerings, marketing messages, and store layouts to better target the preferences and spending habits of each age group.
-Introduce age-specific promotions, loyalty programs, or product bundles to attract customers from different age demographics.
-Use insights from spending patterns of different age groups to optimize revenue generation strategies and enhance customer satisfaction.
