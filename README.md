@@ -4,6 +4,12 @@
 
 The Management team at Walmart Inc. wants to analyze the customer purchase behavior (specifically, purchase amount) against the customer’s gender and the various other factors to help the business make better decisions. They want to understand if the spending habits differ between male and female customers.
 
+## Setup and Installation
+For this project one need to install necessary Python libraries like numpy, pandas, matplotlib, seaborn & scipy.stats.
+
+## Analysis Overview
+- [Jupyter Notebook link : Analysis on DATA](Walmart_Case_Study.ipynb)
+
 ## Report & Recommendations
 ### a. Average Amount Spent by Males and Females
 
