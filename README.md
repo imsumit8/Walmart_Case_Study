@@ -1,41 +1,37 @@
 # Walmart_Case_Study
 
-## Findings
-## Confidence Intervals by Age Group:
-The confidence interval for purchase amounts is wider for children and individuals aged 55+ compared to other age groups. This is due to the higher variation or standard deviation in the purchase amounts for these age groups.
+### Report & Recommendations
+### a. Average Amount Spent by Males and Females
 
-As sample size increases, the width of the confidence interval decreases, which aligns with the Central Limit Theorem (CLT).
-
-Confidence intervals with larger sample sizes are contained within those with smaller sample sizes.
-
-With increasing sample sizes, the sampling distribution of sample means becomes more normally distributed, with less spread and higher precision.
-
-## Report & Recommendations
-a. Average Amount Spent by Males and Females
-Analysis:
+### Analysis:
 
 The confidence intervals for the average amount spent by males and females, computed using all the available data, do not overlap. This indicates a significant difference in the average amount spent by males compared to females.
 A Z-test confirmed that the difference in average spending between males and females is statistically significant.
-Recommendations:
+
+### Recommendations:
 
 Walmart can leverage this information to tailor their marketing strategies and promotions to better target each gender.
 Create gender-specific advertising campaigns or offer gender-specific discounts and promotions.
 Optimize product offerings and inventory management to cater to the preferences of their diverse customer base.
-b. Average Amount Spent by Married and Unmarried Individuals
-Analysis:
+
+### b. Average Amount Spent by Married and Unmarried Individuals
+### Analysis:
 
 The confidence intervals for the average amount spent by married and unmarried individuals overlap significantly, indicating no statistically significant difference in their average spending.
 A Z-test confirmed that the difference in average spending between these groups is not statistically significant.
-Recommendations:
+### Recommendations:
 
 Walmart can design marketing campaigns and promotions that appeal equally to both married and unmarried individuals.
 Focus on creating inclusive marketing strategies that resonate with a broader audience, given the lack of significant difference in spending behavior between these groups.
-c. Average Amount Spent by Different Age Groups
-Analysis:
+
+### c. Average Amount Spent by Different Age Groups
+
+### Analysis:
 
 The confidence intervals for the average amount spent by different age groups do not overlap, indicating statistically significant differences in average spending between age groups.
 An ANOVA test (F-test) confirmed these significant differences in spending patterns across different age groups.
-Recommendations:
+
+### Recommendations:
 
 Walmart can tailor their product offerings, marketing messages, and store layouts to better target the preferences and spending habits of each age group.
 Introduce age-specific promotions, loyalty programs, or product bundles to attract customers from different age demographics.
